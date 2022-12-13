@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(107, 111, 107);
+}
+form{color: rgb(26, 2, 2);
+	width: 300px;
+	padding: 16px;
+	border-radius: 10px;
+	margin: auto;
+	font-family: Broadway;
+	background-color: #6eeee1;
+
+}
+form label{
+	width: 72px;
+	font-weight: bold;
+	display: inline-block;
+
+}
+form input[type="text"],form input[type="email"]{
+	width: 180px;
+	padding: 3px 10px;
+	border:3px solid #2b04f0;
+	border-radius: 3px;
+	background-color: #a1ef04;
+	margin: 8px;
+	display: inline-block;
+
+}

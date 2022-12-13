@@ -1,0 +1,17 @@
+body{
+    background-color: tomato;
+
+}
+p{
+    color: black;
+    text-align: center;
+    font-size: 40px;
+    background: red;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    background: gray;
+    font-size: 60px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
